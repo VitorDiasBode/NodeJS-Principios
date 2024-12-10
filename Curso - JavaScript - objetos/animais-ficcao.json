@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nome": "Aslan",
+    "especie": "Leão",
+    "idade": 200
+  },
+  {
+    "id": 2,
+    "nome": "Buck",
+    "especie": "Cão",
+    "idade": 5
+  },
+  {
+    "id": 3,
+    "nome": "Falcão Milenar",
+    "especie": "Ave",
+    "idade": 100
+  },
+  {
+    "id": 4,
+    "nome": "Appa",
+    "especie": "Bisão Voador",
+    "idade": 16
+  },
+  {
+    "id": 5,
+    "nome": "Pé Grande",
+    "especie": "Primata",
+    "idade": 50
+  },
+  {
+    "id": 6,
+    "nome": "Kurama",
+    "especie": "Raposa",
+    "idade": 1000
+  },
+  {
+    "id": 7,
+    "nome": "Hedwig",
+    "especie": "Coruja",
+    "idade": 3
+  },
+  {
+    "id": 8,
+    "nome": "Smaug",
+    "especie": "Dragão",
+    "idade": 600
+  },
+  {
+    "id": 9,
+    "nome": "Banguela",
+    "especie": "Fúria da Noite",
+    "idade": 8
+  },
+  {
+    "id": 10,
+    "nome": "Pikachu",
+    "especie": "Pokémon",
+    "idade": 5
+  }
+]

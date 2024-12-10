@@ -1,0 +1,171 @@
+[
+    {
+      "id": 11,
+      "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+      "diretor": "Peter Jackson",
+      "anoLancamento": 2001
+    },
+    {
+      "id": 12,
+      "titulo": "O Hobbit: Uma Jornada Inesperada",
+      "diretor": "Peter Jackson",
+      "anoLancamento": 2012
+    },
+    {
+      "id": 13,
+      "titulo": "Matrix",
+      "diretor": "Lana Wachowski e Lilly Wachowski",
+      "anoLancamento": 1999
+    },
+    {
+      "id": 14,
+      "titulo": "Interestelar",
+      "diretor": "Christopher Nolan",
+      "anoLancamento": 2014
+    },
+    {
+      "id": 15,
+      "titulo": "A Origem",
+      "diretor": "Christopher Nolan",
+      "anoLancamento": 2010
+    },
+    {
+      "id": 16,
+      "titulo": "Guardiões da Galáxia",
+      "diretor": "James Gunn",
+      "anoLancamento": 2014
+    },
+    {
+      "id": 17,
+      "titulo": "Capitão América: Guerra Civil",
+      "diretor": "Anthony e Joe Russo",
+      "anoLancamento": 2016
+    },
+    {
+      "id": 18,
+      "titulo": "Doutor Estranho",
+      "diretor": "Scott Derrickson",
+      "anoLancamento": 2016
+    },
+    {
+      "id": 19,
+      "titulo": "Zootopia",
+      "diretor": "Byron Howard e Rich Moore",
+      "anoLancamento": 2016
+    },
+    {
+      "id": 20,
+      "titulo": "Rogue One: Uma História Star Wars",
+      "diretor": "Gareth Edwards",
+      "anoLancamento": 2016
+    },
+    {
+      "id": 21,
+      "titulo": "O Nome da Rosa",
+      "autor": "Umberto Eco",
+      "anoPublicacao": 1980
+    },
+    {
+      "id": 22,
+      "titulo": "It: A Coisa",
+      "autor": "Stephen King",
+      "anoPublicacao": 1986
+    },
+    {
+      "id": 23,
+      "titulo": "Neuromancer",
+      "autor": "William Gibson",
+      "anoPublicacao": 1984
+    },
+    {
+      "id": 24,
+      "titulo": "A História Sem Fim",
+      "autor": "Michael Ende",
+      "anoPublicacao": 1979
+    },
+    {
+      "id": 25,
+      "titulo": "Cem Anos de Solidão",
+      "autor": "Gabriel García Márquez",
+      "anoPublicacao": 1970
+    },
+    {
+      "id": 26,
+      "titulo": "O Alquimista",
+      "autor": "Paulo Coelho",
+      "anoPublicacao": 1988
+    },
+    {
+      "id": 27,
+      "titulo": "Jurassic Park",
+      "autor": "Michael Crichton",
+      "anoPublicacao": 1990
+    },
+    {
+      "id": 28,
+      "titulo": "O Silêncio dos Inocentes",
+      "autor": "Thomas Harris",
+      "anoPublicacao": 1988
+    },
+    {
+      "id": 29,
+      "titulo": "O Iluminado",
+      "autor": "Stephen King",
+      "anoPublicacao": 1977
+    },
+    {
+      "id": 30,
+      "titulo": "Beloved",
+      "autor": "Toni Morrison",
+      "anoPublicacao": 1987
+    },
+    {
+      "id": 31,
+      "titulo": "Toy Story 4",
+      "diretor": "Josh Cooley",
+      "anoLancamento": 2019
+    },
+    {
+      "id": 32,
+      "titulo": "Aladdin",
+      "diretor": "Guy Ritchie",
+      "anoLancamento": 2019
+    },
+    {
+      "id": 33,
+      "titulo": "O Rei Leão",
+      "diretor": "Jon Favreau",
+      "anoLancamento": 2019
+    },
+    {
+      "id": 34,
+      "titulo": "Coringa",
+      "diretor": "Todd Phillips",
+      "anoLancamento": 2019
+    },
+    {
+      "id": 35,
+      "titulo": "Parasita",
+      "diretor": "Bong Joon-ho",
+      "anoLancamento": 2019
+    },
+    {
+      "id": 36,
+      "titulo": "O Farol",
+      "diretor": "Robert Eggers",
+      "anoLancamento": 2019
+    },
+    {
+      "id": 37,
+      "titulo": "Once Upon a Time in Hollywood",
+      "diretor": "Quentin Tarantino",
+      "anoLancamento": 2019
+    },
+    {
+      "id": 38,
+      "titulo": "Vingadores: Ultimato",
+      "diretor": "Anthony e Joe Russo",
+      "anoLancamento": 2019
+    }
+  ]
+  

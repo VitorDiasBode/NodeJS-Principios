@@ -1,0 +1,18 @@
+const notas = [10, 6.5, 8, 7.5];
+
+let somaDasNotas = 0;
+
+notas.forEach(nota => somaDasNotas+=nota);
+
+// notas.forEach(somarNotas);
+
+// notas.forEach( function (nota) {
+//     somaDasNotas += nota;
+// })
+
+function somarNotas(nota){
+    somaDasNotas += nota;
+}
+
+const media = somaDasNotas/notas.length;
+console.log(`A media de notas é ${media}`);

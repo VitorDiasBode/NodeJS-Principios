@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "nome": "Recursos Humanos",
+    "funcionarios": [
+      {
+        "id": 101,
+        "nome": "Ana Costa",
+        "cargo": "Gerente de RH",
+        "idade": 35
+      },
+      {
+        "id": 102,
+        "nome": "Carlos Silva",
+        "cargo": "Assistente de RH",
+        "idade": 28
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Tecnologia da Informação",
+    "funcionarios": [
+      {
+        "id": 201,
+        "nome": "Pedro Oliveira",
+        "cargo": "Desenvolvedor Backend",
+        "idade": 30
+      },
+      {
+        "id": 202,
+        "nome": "Fernanda Almeida",
+        "cargo": "Analista de Sistemas",
+        "idade": 25
+      },
+      {
+        "id": 203,
+        "nome": "Ricardo Martins",
+        "cargo": "Gerente de TI",
+        "idade": 42
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Marketing",
+    "funcionarios": [
+      {
+        "id": 301,
+        "nome": "Luana Pereira",
+        "cargo": "Coordenadora de Marketing",
+        "idade": 29
+      },
+      {
+        "id": 302,
+        "nome": "João Santos",
+        "cargo": "Analista de Marketing Digital",
+        "idade": 32
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Financeiro",
+    "funcionarios": [
+      {
+        "id": 401,
+        "nome": "Beatriz Souza",
+        "cargo": "Analista Financeira",
+        "idade": 27
+      },
+      {
+        "id": 402,
+        "nome": "Gustavo Ribeiro",
+        "cargo": "Coordenador de Contabilidade",
+        "idade": 40
+      }
+    ]
+  }
+]
